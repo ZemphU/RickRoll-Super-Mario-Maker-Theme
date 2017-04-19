@@ -13,3 +13,4 @@ Installation instructions and whatnot-
    
   Assuming you have all of these things on your SD Card, you'll have to add the files first.
     1. On the root of your SD card or USB drive, create a folder called "00050000-1018DC00" if you live in the USA or "00050000-1018DD00" if you live in Europe. (THE NAME IS VERY IMPORTANT. I SUGGEST TO USE COPY-PASTE)
+    2. After doing that, copy the "content" folder to the new folder you just made.
